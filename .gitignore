@@ -17,3 +17,6 @@
 /tmp
 
 public/spree/
+
+# Ignore application configuration
+/config/application.yml
